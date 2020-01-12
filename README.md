@@ -8,6 +8,8 @@
 `이 커밋까지 현재 브랜치를 초기화. `
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(1).png)
 
+---
+
 ## git reset soft
 - 돌아가려 했던 이력으로 되돌아간다.
 - 모든 로컬 변경사항을 유지.
@@ -17,6 +19,8 @@
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(2)%2C%20soft.PNG)
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(2)%2C%20soft%20%EC%9D%B4%ED%9B%84%20%EA%B2%B0%EA%B3%BC..PNG)
 
+---
+
 ## git reset mixed
 - 돌아가려 했던 이력으로 되돌아간다.
 - 작업했던 작업물들은 `unstaged area` 에 올려져 있고, 해당 내용들은 `commit & push & pull` 을 통해서 다시 합칠 수 있다.
@@ -24,6 +28,8 @@
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(2)%2C%20mix.PNG)
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(2)%2C%20mix%20%EC%9D%B4%ED%9B%84%20%EA%B2%B0%EA%B3%BC..PNG)
 ![](https://github.com/pasudo123/GitFlowZero/blob/master/images/%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC%20(2)%2C%20mix%20%EC%9D%B4%ED%9B%84%20%EA%B2%B0%EA%B3%BC.%20(2).PNG)
+
+---
 
 ## git reset hard
 - 돌아가려 했던 이력으로 되돌아간다.
